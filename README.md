@@ -1,4 +1,4 @@
-# DALooker
+# Looker
 Dashboards realizados en Looker Studio
 
 - Planteles liga Argentina
